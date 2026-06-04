@@ -67,7 +67,7 @@ ssh-keygen -t ed25519 -C "your-email@example.com"
 Example:
 
 ```bash
-ssh-keygen -t ed25519 -C "leoyang816@gmail.com"
+ssh-keygen -t ed25519 -C "john.smith@gmail.com"
 ```
 
 ---
@@ -271,13 +271,13 @@ git config --global user.name "Your Name"
 Example:
 
 ```bash
-git config --global user.name "Tao Yang"
+git config --global user.name "John Smith"
 ```
 
 Configure your email:
 
 ```bash
-git config --global user.email "leoyang816@gmail.com"
+git config --global user.email "john.smith@gmail.com"
 ```
 
 Verify:

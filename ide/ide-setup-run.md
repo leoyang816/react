@@ -188,7 +188,7 @@ Avoid storing active React projects under:
 Example:
 
 ```text
-/mnt/c/Users/Tao/Documents
+/mnt/c/Users/John.Smith/Documents
 ```
 
 Reasons:
